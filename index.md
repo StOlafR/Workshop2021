@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Welcome to the St. Olaf Stats and Data Science R Bootcamp
 
-You can use the [editor on GitHub](https://github.com/StOlafR/Workshop2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We're so glad you've committed yourself to learning R, which we believe is the most useful, powerful, and flexible statistical software out there! On this page you will find many of the resources used throughout the week. All of the original files can be found directly on the [St. Olaf RStudio server](https://r.stolaf.edu/) in the `Workshop 101 summer21` folder. Those files in their pdf form are listed here, as well as some additonal tip, resources, and learning materials.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> Enjoy your R experience!!
 
-### Markdown
+## Workshop Schedule
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Tuesday 6/1**
 
-```markdown
-Syntax highlighted code block
+- **Wednesday 6/2**
 
-# Header 1
-## Header 2
-### Header 3
+- **Thursday 6/3**
 
-- Bulleted
-- List
+- **Friday 6/4**
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## R Cheatsheets
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. [RStudio Environment Guide](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
+2. [R Markdown Reference](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+3. [R Markdown Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
+4. [Basic R Code](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)
+5. [Data Import](https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf)
+6. [Data Wrangling](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)
+7. [Data Visualization using ggplot2](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
+8. [More Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 
-### Jekyll Themes
+## Additional R learning resources
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StOlafR/Workshop2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [learnR4free](https://www.learnr4free.com/advanced.html)
 
-### Support or Contact
+## Downloading and Installing R
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Download R](https://www.r-project.org/)
+
+[Download RStudio](https://www.rstudio.com/)
+
+[Use the Cloud (no download required)](https://rstudio.cloud/)
