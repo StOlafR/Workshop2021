@@ -22,7 +22,7 @@ You will eventually lose access to our workshop folder on the R server.  If you 
 
 R has a learning curve and nobody becomes an expert without making mistakes. Please feel free to ask us your questions at any point during the workshop. Since many errors and issues with R are specific to an individual user please use the following Google doc link to send us your questions. We will monitor the document and provide answers right away. If it’s a really good one, we’ll even bring it up in the main room.
 
-[Link to Google doc for Questions](https://docs.google.com/document/d/1Mbq-ehvx_DpYUIYlBFUxSLbUxS9s3Di6yYxXVGHy_nM/edit?usp=sharing): [https://docs.google.com/document/d/1Mbq-ehvx_DpYUIYlBFUxSLbUxS9s3Di6yYxXVGHy_nM/edit?usp=sharing](https://docs.google.com/document/d/1Mbq-ehvx_DpYUIYlBFUxSLbUxS9s3Di6yYxXVGHy_nM/edit?usp=sharing)
+> [**Link to Google doc for Questions**](https://docs.google.com/document/d/1Mbq-ehvx_DpYUIYlBFUxSLbUxS9s3Di6yYxXVGHy_nM/edit?usp=sharing)
 
 You may also send a direct message in Zoom to one of the TAs if you’d like one on one help.
 
