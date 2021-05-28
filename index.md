@@ -1,3 +1,5 @@
+![](sdshex.png)
+
 # Welcome to the Stats and Data Science R Workshop!
 
 We're so glad you have a desire to learn R! You are well on your way to adding a powerful tool to your data analysis skill set. On this page you will find helpful information and additional resources to those presented this week. Remember, all of the code and examples used in the workshop can be found directly on the [St. Olaf RStudio server](https://r.stolaf.edu/) in the `Workshop 101 summer21` folder.
