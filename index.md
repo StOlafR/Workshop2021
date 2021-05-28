@@ -48,6 +48,7 @@ Below are walkthroughs of the RStudio environment as well as some common errors 
 - [RStudio Guide](https://drive.google.com/file/d/1O9jSXFWokTMiOCWXHVJP2iacX7D2r43v/view?usp=sharing)
 - [How to upload a .csv file to the R server](https://docs.google.com/document/d/1hHWyyRQxH69BVM4rLwgqE2fqtPi3lRD5rQIKC4o2s48/edit?usp=sharing)
 - [Common errors and issues](https://docs.google.com/document/d/1fWiqTo0wqPwIpD0ezTVLHodj-7SUN9id-kvvlJOznvY/edit?usp=sharing)
+- [R Coding Style Guide](http://adv-r.had.co.nz/Style.html)
 
 ## R Cheatsheets
 These links will download 1-2 page documents with lots of helpful tips.
@@ -65,7 +66,7 @@ These links will download 1-2 page documents with lots of helpful tips.
 There are tons of resources out there to learn R on your own and it can be a little overwhelming. If you would like to dive deeper into R, or find help with more specific types of data analysis, these resources may help.
 
 - **Online**
-    - [A gentle introduction to tidy statistics](https://www.rstudio.com/resources/webinars/a-gentle-introduction-to-tidy-statistics-in-r/) (*webinar - 54 min*)
+    - [A Gentle Introduction to Tidy Statistics in R](https://www.rstudio.com/resources/webinars/a-gentle-introduction-to-tidy-statistics-in-r/) (*webinar - 54 min*)
     - [learnR4free](https://www.learnr4free.com/advanced.html)
     - [RStudio primers](https://rstudio.cloud/learn/primers)
     - [Swirl](http://swirlstats.com/) (more traditional R in the RStudio environment)
