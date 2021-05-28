@@ -70,7 +70,7 @@ There are tons of resources out there to learn R on your own and it can be a lit
     - [*Data Visualization: A Practical Introduction*](https://kieranhealy.org/publications/dataviz/) by Kieran Healy
     - [*ggplot2: Elegant Graphics for Data Analysis*](https://www.amazon.com/dp/0387981403/) by Hadley Wickham
 
-- **Stuck in R?** Someone out there probably has a solution, try finding it![^1]
+- **Stuck in R?** Someone out there probably has a solution, try finding it!<sup>[^1]</sup>
     - Search the help documentation for a particular function directly in RStudio
     - [Google it](https://www.google.com/) (*Pro tip:* we do it every time we code!)
     - [RStudio Community](https://community.rstudio.com/)
