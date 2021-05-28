@@ -10,13 +10,25 @@ We're so glad you have a desire to learn R! You are well on your way to adding a
 
 ## Workshop Schedule
 
-- **Tuesday 6/1**
+- **Tuesday June 1 (1-4 PM)** with Sharon Lane-Getaz and Joe Roith
+    - Welcome
+    - Intro to RStudio and the tidyverse
+    - Data viz and exploratory data analysis with `ggplot2`
 
-- **Wednesday 6/2**
+- **Wednesday June 2 (1-4 PM)** with Laura Boehm Vock and Jaime Davila
+    - Data wrangling
+    - Data transformation
 
-- **Thursday 6/3**
+- **Thursday June 3 (1-4 PM)** with Matt Richey and Paul Roback
+    - Modeling with regression
+    - Predictive modeling
 
-- **Friday 6/4**
+- **Friday June 4 (9 AM - 12 PM)** choose your own adventure
+    - 9-10 *Room 1*: Review/extension of Day 1
+    - 9-10 *Room 2*: Review/extension of Day 2
+    - 9-10 *Room 3*: Review/extension of Day 3
+    - 10-11: same 3 rooms, participants may move around
+    - 11-12: Breakout rooms with reflection discussions and final questions
 
 ## Accessing Materials
 
