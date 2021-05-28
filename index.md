@@ -50,15 +50,16 @@ Below are walkthroughs of the RStudio environment as well as some common errors 
 - [Common errors and issues](https://docs.google.com/document/d/1fWiqTo0wqPwIpD0ezTVLHodj-7SUN9id-kvvlJOznvY/edit?usp=sharing)
 
 ## R Cheatsheets
+These links will download 1-2 page documents with lots of helpful tips.
 
-1. [RStudio Environment Guide](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
-2. [R Markdown Reference](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
-3. [R Markdown Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
-4. [Basic R Code](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)
-5. [Data Import](https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf)
-6. [Data Wrangling](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)
-7. [Data Visualization using ggplot2](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
-8. [More Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+- [RStudio Environment Guide](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
+- [R Markdown Reference](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+- [R Markdown Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
+- [Basic R Code](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)
+- [Data Import](https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf)
+- [Data Wrangling](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)
+- [Data Visualization using ggplot2](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
+- [More Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 
 ## Additional R learning resources
 There are tons of resources out there to learn R on your own and it can be a little overwhelming. If you would like to dive deeper into R, or find help with more specific types of data analysis, these resources may help.
