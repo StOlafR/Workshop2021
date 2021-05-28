@@ -76,11 +76,11 @@ There are tons of resources out there to learn R on your own and it can be a lit
     - [RStudio Community](https://community.rstudio.com/)
     - [Stack Overflow](https://stackoverflow.com/questions/tagged/r)
 
-[^1]: Understanding documentation and code written by others is an aquired skill that takes practice. Just try it out and remember, you can't break R!
+[^1]: Understanding documentation and code written by others is an acquired skill that takes practice. Just try it out and remember, you can't break R!
     
 
 ## Using R outside of the St. Olaf server
-Want to continue using R offline? Moved on from St. Olaf and no longer have access to the server? You can download and run R locally for all of your projects. Just remember, you need both R (the engine) and RStudio (the steering wheel, dashboard, and pedals). While you may never actually open R, it's important to keep it installed and up to date. This will also require setting up your library, so don't forget to install and load those libraries.
+Want to continue using R offline? Moved on from St. Olaf and no longer have access to the server? You can download and run R locally for all of your projects. Just remember, you need both R (the engine) and RStudio (the steering wheel, dashboard, and pedals). While you may never actually open R, it's important to keep it installed and up to date. You will also need to set up your library, so don't forget to install and load those packages.
 
 - [Download R](https://www.r-project.org/)
 - [Download RStudio](https://www.rstudio.com/)
