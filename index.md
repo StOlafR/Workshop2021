@@ -90,3 +90,5 @@ Want to continue using R offline? Moved on from St. Olaf and no longer have acce
 ## Acknowledgements
 
 A special thanks to our student TAs, Julia Cordes, Raymond Fleming, and Tim Roback!
+
+---
