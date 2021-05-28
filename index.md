@@ -57,21 +57,21 @@ You may also send a direct message in Zoom to one of the TAs if you’d like one
 ## Additional R learning resources
 There are tons of resources out there to learn R on your own and it can be a little overwhelming. If you would like to dive deeper into R, or find help with more specific types of data analysis, these resources may help.
 
-- Online
+- **Online**
     - [A gentle introduction to tidy statistics](https://www.rstudio.com/resources/webinars/a-gentle-introduction-to-tidy-statistics-in-r/) (*webinar - 54 min*)
     - [learnR4free](https://www.learnr4free.com/advanced.html)
     - [RStudio primers](https://rstudio.cloud/learn/primers)
     - [Swirl](http://swirlstats.com/) (more traditional R in the RStudio environment)
     - [More resources for intermediate R users](https://education.rstudio.com/learn/intermediate/)
 
-- Free (or cheap) textbooks
+- **Free (or cheap) textbooks**
     - [*R for Data Science*](https://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund
     - [*A Modern Dive into R and the Tidyverse*](https://moderndive.com/) by Chester Ismay and Albert Y. Kim
     - [*Hands-On Programming with R*](https://rstudio-education.github.io/hopr/) by Garrett Grolemund
     - [*Data Visualization: A Practical Introduction*](https://kieranhealy.org/publications/dataviz/) by Kieran Healy
     - [*ggplot2: Elegant Graphics for Data Analysis*](https://www.amazon.com/dp/0387981403/) by Hadley Wickham
 
-- Stuck in R? Someone out there probably has a solution, try finding it![^1]
+- **Stuck in R?** Someone out there probably has a solution, try finding it![^1]
     - Search the help documentation for a particular function directly in RStudio
     - [Google it](https://www.google.com/) (*Pro tip:* we do it every time we code!)
     - [RStudio Community](https://community.rstudio.com/)
@@ -81,12 +81,11 @@ There are tons of resources out there to learn R on your own and it can be a lit
     
 
 ## Using R outside of the St. Olaf server
+Want to continue using R offline? Moved on from St. Olaf and no longer have access to the server? You can download and run R locally for all of your projects. Just remember, you need both R (the engine) and RStudio (the steering wheel, dashboard, and pedals). While you may never actually open R, it's important to keep it installed and up to date. This will also require setting up your library, so don't forget to install and load those libraries.
 
 - [Download R](https://www.r-project.org/)
-
 - [Download RStudio](https://www.rstudio.com/)
-
-- [Use the Cloud (no download required)](https://rstudio.cloud/)
+- [Use the RStudio Cloud (no download required)](https://rstudio.cloud/)
 
 ## Acknowledgements
 
