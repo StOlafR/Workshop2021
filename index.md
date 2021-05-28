@@ -12,7 +12,7 @@ We're so glad you have a desire to learn R! You are well on your way to adding a
 
 - **Tuesday June 1 (1-4 PM)** with Sharon Lane-Getaz and Joe Roith
     - Welcome
-    - Intro to RStudio and the tidyverse
+    - Intro to RStudio and the `tidyverse`
     - Data viz and exploratory data analysis with `ggplot2`
 
 - **Wednesday June 2 (1-4 PM)** with Laura Boehm Vock and Jaime Davila
@@ -45,7 +45,6 @@ You may also send a direct message in Zoom to one of the TAs if you’d like one
 
 ## R Cheatsheets
 
-
 1. [RStudio Environment Guide](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
 2. [R Markdown Reference](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
 3. [R Markdown Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
@@ -56,8 +55,30 @@ You may also send a direct message in Zoom to one of the TAs if you’d like one
 8. [More Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 
 ## Additional R learning resources
+There are tons of resources out there to learn R on your own and it can be a little overwhelming. If you would like to dive deeper into R, or find help with more specific types of data analysis, these resources may help.
 
-- [learnR4free](https://www.learnr4free.com/advanced.html)
+- Online
+    - [A gentle introduction to tidy statistics](https://www.rstudio.com/resources/webinars/a-gentle-introduction-to-tidy-statistics-in-r/) (*webinar - 54 min*)
+    - [learnR4free](https://www.learnr4free.com/advanced.html)
+    - [RStudio primers](https://rstudio.cloud/learn/primers)
+    - [Swirl](http://swirlstats.com/) (more traditional R in the RStudio environment)
+    - [More resources for intermediate R users](https://education.rstudio.com/learn/intermediate/)
+
+- Free (or cheap) textbooks
+    - [*R for Data Science*](https://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund
+    - [*A Modern Dive into R and the Tidyverse*](https://moderndive.com/) by Chester Ismay and Albert Y. Kim
+    - [*Hands-On Programming with R*](https://rstudio-education.github.io/hopr/) by Garrett Grolemund
+    - [*Data Visualization: A Practical Introduction*](https://kieranhealy.org/publications/dataviz/) by Kieran Healy
+    - [*ggplot2: Elegant Graphics for Data Analysis*](https://www.amazon.com/dp/0387981403/) by Hadley Wickham
+
+- Stuck in R? Someone out there probably has a solution, try finding it![^1]
+    - Search the help documentation for a particular function directly in RStudio
+    - [Google it](https://www.google.com/) (*Pro tip:* we do it every time we code!)
+    - [RStudio Community](https://community.rstudio.com/)
+    - [Stack Overflow](https://stackoverflow.com/questions/tagged/r)
+
+[^1]: Understanding documentation and code written by others is an aquired skill that takes practice. Just try it out and remember, you can't break R!
+    
 
 ## Using R outside of the St. Olaf server
 
@@ -66,3 +87,7 @@ You may also send a direct message in Zoom to one of the TAs if you’d like one
 - [Download RStudio](https://www.rstudio.com/)
 
 - [Use the Cloud (no download required)](https://rstudio.cloud/)
+
+## Acknowledgements
+
+A special thanks to our student TAs, Julia Cordes, Raymond Fleming, and Tim Roback!
