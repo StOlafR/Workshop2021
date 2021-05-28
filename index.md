@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="sdshex.png">
+  <img width="300" height="300" src="sdshex.png">
 </p>
 
 # Welcome to the Stats and Data Science R Workshop!
