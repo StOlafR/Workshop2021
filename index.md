@@ -42,6 +42,13 @@ You may also send a direct message in Zoom to one of the TAs if you’d like one
 
 You will eventually lose access to our workshop folder on the R server.  If you want to hold on to the materials and your code from this workshop, we recommend **Exporting zipped folders of your material to your laptop** (check a folder to export, and then go to More > Export). We will remind you again on Friday to do this, after you’ve had a chance to write code for all of our activities.
 
+## R Guides and Troubleshooting
+Below are walkthroughs of the RStudio environment as well as some common errors for running code and knitting documents.
+
+- [RStudio Guide](https://drive.google.com/file/d/1O9jSXFWokTMiOCWXHVJP2iacX7D2r43v/view?usp=sharing)
+- [How to upload a .csv file to the R server](https://docs.google.com/document/d/1hHWyyRQxH69BVM4rLwgqE2fqtPi3lRD5rQIKC4o2s48/edit?usp=sharing)
+- [Common errors and issues](https://docs.google.com/document/d/1fWiqTo0wqPwIpD0ezTVLHodj-7SUN9id-kvvlJOznvY/edit?usp=sharing)
+
 ## R Cheatsheets
 
 1. [RStudio Environment Guide](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
@@ -70,13 +77,13 @@ There are tons of resources out there to learn R on your own and it can be a lit
     - [*Data Visualization: A Practical Introduction*](https://kieranhealy.org/publications/dataviz/) by Kieran Healy
     - [*ggplot2: Elegant Graphics for Data Analysis*](https://www.amazon.com/dp/0387981403/) by Hadley Wickham
 
-- **Stuck in R?** Someone out there probably has a solution, try finding it!<sup>[^1]</sup>
+- **Stuck in R?** Someone out there probably has a solution, try finding it![^<sup>1</sup>]
     - Search the help documentation for a particular function directly in RStudio
     - [Google it](https://www.google.com/) (*Pro tip:* we do it every time we code!)
     - [RStudio Community](https://community.rstudio.com/)
     - [Stack Overflow](https://stackoverflow.com/questions/tagged/r)
 
-[^1]: Understanding documentation and code written by others is an acquired skill that takes practice. Just try it out and remember, you can't break R!
+[^<sup>1</sup>]: Understanding documentation and code written by others is an acquired skill that takes practice. Just try it out and remember, you can't break R!
     
 
 ## Using R outside of the St. Olaf server
