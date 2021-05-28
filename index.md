@@ -1,4 +1,6 @@
-![](sdshex.png){width=50%}
+<p align="center">
+  <img width="460" height="300" src="sdshex.png">
+</p>
 
 # Welcome to the Stats and Data Science R Workshop!
 
