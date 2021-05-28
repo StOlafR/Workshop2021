@@ -1,4 +1,4 @@
-![](sdshex.png)
+![](sdshex.png){width=50%}
 
 # Welcome to the Stats and Data Science R Workshop!
 
