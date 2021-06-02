@@ -10,7 +10,7 @@ We're so glad you have a desire to learn R! You are well on your way to adding a
 
 ## Workshop Schedule
 
-- **Tuesday June 1 (1-4 PM)** with Sharon Lane-Getaz and Joe Roith
+- **Tuesday June 1 (1-4 PM)** with Sharon Lane-Getaz and Joe Roith ([Link to recording](https://stolaf.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e53280f3-0c03-40e3-bb79-ad3a01747bac))
     - Welcome
     - Intro to RStudio and the `tidyverse`
     - Data viz and exploratory data analysis with `ggplot2`
