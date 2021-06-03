@@ -19,7 +19,7 @@ We're so glad you have a desire to learn R! You are well on your way to adding a
     - Data wrangling
     - Data transformation
 
-- **Thursday June 3 (1-4 PM)** with Matt Richey and Paul Roback
+- **Thursday June 3 (1-4 PM)** with Matt Richey and Paul Roback ([Link to Day 3 recording](https://stolaf.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=76dd3f36-67ce-4305-973b-ad3c016d1f65))
     - Modeling with regression
     - Predictive modeling
 
