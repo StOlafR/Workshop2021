@@ -49,6 +49,7 @@ Below are walkthroughs of the RStudio environment as well as some common errors 
 - [How to upload a .csv file to the R server](https://docs.google.com/document/d/1hHWyyRQxH69BVM4rLwgqE2fqtPi3lRD5rQIKC4o2s48/edit?usp=sharing)
 - [Common errors and issues](https://docs.google.com/document/d/1fWiqTo0wqPwIpD0ezTVLHodj-7SUN9id-kvvlJOznvY/edit?usp=sharing)
 - [R Coding Style Guide](http://adv-r.had.co.nz/Style.html)
+- [Color Guide for plots](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf)
 
 ## R Cheatsheets
 These links will download 1-2 page documents with lots of helpful tips.
