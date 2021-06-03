@@ -10,12 +10,12 @@ We're so glad you have a desire to learn R! You are well on your way to adding a
 
 ## Workshop Schedule
 
-- **Tuesday June 1 (1-4 PM)** with Sharon Lane-Getaz and Joe Roith ([Link to recording](https://stolaf.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e53280f3-0c03-40e3-bb79-ad3a01747bac))
+- **Tuesday June 1 (1-4 PM)** with Sharon Lane-Getaz and Joe Roith ([Link to Day 1 recording](https://stolaf.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e53280f3-0c03-40e3-bb79-ad3a01747bac))
     - Welcome
     - Intro to RStudio and the `tidyverse`
     - Data viz and exploratory data analysis with `ggplot2`
 
-- **Wednesday June 2 (1-4 PM)** with Laura Boehm Vock and Jaime Davila
+- **Wednesday June 2 (1-4 PM)** with Laura Boehm Vock and Jaime Davila ([Link to Day 2 recording](https://stolaf.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bbefcb29-09fe-427b-87a5-ad3b01787c9f))
     - Data wrangling
     - Data transformation
 
