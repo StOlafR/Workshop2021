@@ -23,12 +23,12 @@ We're so glad you have a desire to learn R! You are well on your way to adding a
     - Modeling with regression
     - Predictive modeling
 
-- **Friday June 4 (9 AM - 12 PM)** choose your own adventure
-    - 9-10 *Room 1*: Review/extension of Day 1
-    - 9-10 *Room 2*: Review/extension of Day 2
-    - 9-10 *Room 3*: Review/extension of Day 3
-    - 10-11: same 3 rooms, participants may move around
-    - 11-12: Breakout rooms with reflection discussions and final questions
+- **Friday June 4 (9-11:30 AM)**
+    - 9-10:30 Choose Your Own Adventure
+      - Room 1 (zoom): More options in ggplot, plus time to work with data
+      - Room 2 (zoom): More options in data wrangling, including joining two data sets, plus time to work with data
+      - Room 3 (zoom or 160R): More modeling options, including logistic regression, plus time to work with data
+    - 10:40-11:30 Final group reflections with [this link](https://docs.google.com/document/d/1TLs85fJx9xTuuZi6U2R2bW0pZ1D8bIRTzj3ZTnV5em0/edit?usp=sharing)
 
 ## Questions
 
